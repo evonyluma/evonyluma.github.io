@@ -30,7 +30,7 @@ Your options screen should look like that:
 Read the Alliance Rules. Now read them again. Any offense to those rules can result in your immediate eviction from the Alliance.
 You have been warned!
 
-## Step 4) Say Hello on the Alliance Chat
+### Step 4) Say Hello on the Alliance Chat
 
 Don't be a stranger! The Chat is where we bond together, exchange monsters and players spotting, and help each other. So come
 say Hello and introduce yourself!
