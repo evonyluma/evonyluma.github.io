@@ -23,7 +23,7 @@ To do this, from the game screen:
 
 Your options screen should look like that:
 
-![options screenshot](images/options.jpg)
+![options screenshot](/images/options.jpg)
 
 ### Step 3) Read the Alliance Rules
 
