@@ -1,51 +1,36 @@
 ---
 layout: page
-title: Getting started with Reverie
+title: Getting started with TOR
 permalink: /getting-started/
 ---
 
-### Step 1) Fork Reverie to your User Repository
+### Step 1) Change your Monarch name
 
-Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
+At first, your player name will be Monarch12345678 or similar. This name is complicated to identify and also makes you an open
+target on the server. Do yourself a favor, and go change it. Now.
 
-Alternatively, you can use [Use this template](https://github.com/amitmerchant1990/reverie/generate) button if you want to create a repository with a clean commit history which will use Reverie as a template.
+### Step 2) Hide your Monarch gear and VIP status
 
-Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
+It is a good idea to reveal as little information on your power as possible to other players. Equipments and VIP status give a
+pretty good indication of your level and buffs, making it easier for attackers to exploit your weak points.
 
-### Step 2) Customize and view your site
+To do this, from the game screen:
+1. Click the three-dots menu on the right side
+2. Select the _Settings_ icon
+3. Select the _Options_ menu item (third from the top)
+4. In the _Monarch Gear Settings_ box, make sure the toggle is set to "disabled"
+5. In the _VIP Level Settings_ box, make sure the toggle is set to "disabled"
 
-Enter your site name, description, avatar and many other options by editing the `_config.yml` file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here.
+Your options screen should look like that:
 
-Making a change to `_config.yml` (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon.
+![options screenshot](images/options.jpg)
 
-### Step 3) Publish your first blog post
+### Step 3) Read the Alliance Rules
 
-Create a new file called `/_posts/2019-2-13-Hello-World.md` to publish your first blog post. That's all you need to do to publish your first blog post! This [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) might come in handy while writing the posts.
+Read the Alliance Rules. Now read them again. Any offense to those rules can result in your immediate eviction from the Alliance.
+You have been warned!
 
-> You can add additional posts in the browser on GitHub.com too! Just hit the <kbd>Create new file</kbd> button in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
+## Step 4) Say Hello on the Alliance Chat
 
-## Using Categories in Reverie
-
-You can categorize your content based on `categories` in Reverie. For this, you just need to add `categories` in front matter like below:
-
-For adding single category:
-
-```md
-categories: JavaScript
-```
-
-For adding multiple categories:
-
-```md
-categories: [PHP, Laravel]
-```
-
-The contegorized content can be shown over this URL: <https://yourgithubusername.github.io/categories/>
-
-## RSS
-
-The generated [RSS feed](https://en.wikipedia.org/wiki/RSS) of your blog can be found at <https://yourgithubusername.github.io/feed>. You can see the example RSS feed over [here](https://www.amitmerchant.com/reverie/feed).
-
-## Sitemap
-
-The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>. You can see the example sitemap feed over [here](https://www.amitmerchant.com/reverie/sitemap).
+Don't be a stranger! The Chat is where we bond together, exchange monsters and players spotting, and help each other. So come
+say Hello and introduce yourself!
