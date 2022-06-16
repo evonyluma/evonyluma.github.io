@@ -6,6 +6,10 @@ nav_order: 1
 ---
 # Frequently Asked Questions
 
+{: .no_toc }
+
+1. TOC
+   {:toc}
 
 ## How do I know if it is Kill Enemies (KE) yet?
 
