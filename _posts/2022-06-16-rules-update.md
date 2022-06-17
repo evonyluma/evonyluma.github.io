@@ -1,10 +1,8 @@
 ---
-layout: default
-title: Rules
-parent: TOR Alliance
-nav_order: 2
+layout: post
+title: Alliance Rules (update regarding Fenrirs)
+categories: Rules
 ---
-# TOR Alliance Rules
 
 _revised on June 16th, 2022: clarify rule#2 and list a safe distance for summoning Fenrirs_
 
